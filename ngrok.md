@@ -1,5 +1,7 @@
 # NGROK 
 
+![alt text](image.png)
+
 ### - ngrok คืออะไร
 > คือเครื่องมือที่ใช้ publish application ของเราที่รันบน localhost ขึ้นสู่ public ได้อย่างง่าย โดยไม่ต้องตั้งค่า firewall, router, หรือ public IP 
 
